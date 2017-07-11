@@ -1,0 +1,8 @@
+/usr/local/lib/libminiupnpc.a
+/usr/local/include/miniupnpc/miniupnpc.h
+/usr/local/include/miniupnpc/miniwget.h
+/usr/local/include/miniupnpc/upnpcommands.h
+/usr/local/include/miniupnpc/igd_desc_parse.h
+/usr/local/include/miniupnpc/upnpreplyparse.h
+/usr/local/include/miniupnpc/upnperrors.h
+/usr/local/include/miniupnpc/declspec.h
